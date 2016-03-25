@@ -1,0 +1,10 @@
+Package: com.joemerlino.nighttoggle
+Name: NightToggle
+Description: NightShift fake toggle, FlipControlCenter recommended.
+Version: 0.0.1
+Priority: optional
+Section: Addons (Flipswitch)
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Maintainer: Joe Merlino
+Author: Joe Merlino
